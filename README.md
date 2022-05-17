@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics, Growth Hacking Analysis.
 - 🌱 I’m currently learning Pandas, SQL, Statistics for Growth Hacking.
 - 💞️ I’m looking to collaborate on Projects related to Growth Hacking & Data Analytics.
-- 📫 How to reach me is by my personal email : hyunjun.kim133@gmail.com
+- 📫 How to reach me is by my personal email : hyunjun.kim.133@gmail.com
 
 <!---
 hyunjun33/hyunjun33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
