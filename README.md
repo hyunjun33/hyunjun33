@@ -1,7 +1,6 @@
 - 👋 Hi, I’m hyunjun kim 
-- 👀 I’m interested in Data Analytics, Growth Hacking Analysis.
-- 🌱 I’m currently learning Pandas, SQL, Statistics, Lean Analysis for Growth Hacking.
-- 💞️ I’m looking for collaborating on Projects related to Growth Hacking.
+- 👀 I’m interested in developing web pages service with Python
+- 🌱 I’m currently learning Django, Postgre, Http & Network, Data Structure, Algorithm for Python Backend development.
 - 📫 How to reach me is by my personal email : hyunjun.kim.133@gmail.com
 
 <!---
